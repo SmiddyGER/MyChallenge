@@ -15,4 +15,3 @@ def crazystring(test_string):
 input_string = "das IST ein s4tring DER umgewANDELT W4dern kann"
 output_string = crazystring(input_string)
 print(output_string)  # Output: "das IST ein s4tring DER umgewANDELT W4dern kann"
-
